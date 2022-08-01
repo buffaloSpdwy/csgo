@@ -2,9 +2,9 @@ Last Game Night on 20220729
 
 More game stats in individual md files showed above in the git repo.
 
-#Night Overall
+# Night Overall
 ![alt text](pictures/de_iris-cs_assault-cs_assault-de_dust2-cs_office-de_nuke@20220729_nightFlow.png)
-#Game-wise
+# Game-wise
 ## 20220729_204223_de_iris_round37_score_26_11
 ![alt text](pictures/2022-07-29_20:42:23_de_iris_rounds.png)
 ![alt text](pictures/2022-07-29_20:42:23_de_iris_flow_1.png)
